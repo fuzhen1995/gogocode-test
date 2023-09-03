@@ -1,5 +1,7 @@
-这是第一次测试
-这是第二次测试
+这是第一次测试。
+还可以直接在GitHub上修改。
+这是第二次测试。
+
 [![Code transform has never been easier: GoGoCode](https://img.alicdn.com/imgextra/i1/O1CN01KMiK8i1uEL75yOSuc_!!6000000006005-2-tps-1949-552.png)](https://gogocode.io)
 
 [![npm version](https://img.shields.io/npm/v/gogocode.svg)](https://www.npmjs.com/package/gogocode) [![license](https://img.shields.io/npm/l/gogocode.svg)](LICENSE) 
